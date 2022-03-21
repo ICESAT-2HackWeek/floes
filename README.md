@@ -1,6 +1,6 @@
-# Sample Project
+# Floes
 
-This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template, provided originally for [Geohackweek](https://github.com/geohackweek/sample_project_repository).
+We currently don't understand how sea-ice floes melt and respond to ocean/atmopshere forcings, particulary around Antarctica. By using IceSat2 data, we could begin to characterise the thickness distribution of sea-ice floes during the Spring/Summer period. In parallel, looking at SAR/MODIS data could provide floe size distribution at concomitant times, which we could compare to corresponding Arctic studies.
 
 ## Files
 
